@@ -1,6 +1,6 @@
 # Kapahi_TF_Enrichment_Analysis
-Code determines the enrichment of input genes among targets from 445 publicly available ChIP-Seq data sets of Drosophila melanogaster stage 3 larvae. Original enrichment code written by Tal Oron at the Buck Institute, modifications and additions made by Tyler Hilsabeck in the Kapahi and Brem Labs at the Buck Institute.\n
-Code Descriptions:\n
+Code determines the enrichment of input genes among targets from 445 publicly available ChIP-Seq data sets of Drosophila melanogaster stage 3 larvae. Original enrichment code written by Tal Oron at the Buck Institute, modifications and additions made by Tyler Hilsabeck in the Kapahi and Brem Labs at the Buck Institute.
+Code Descriptions:
 GSE_benhoch.py - Modified enrichment code that includes multiple testing correction
 GSEutils.py - Support methods called in GSE_benhoch.py
 genePipeline.py - Pipeline that integrates reading of an input gene list and its analysis
